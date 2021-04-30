@@ -1,6 +1,6 @@
 import isValid from './silly-pascal';
 
-test('C1', () => {
+test('C1 - C4 - C6', () => {
   const input: string = 'aaaa';
   expect(isValid(input)).toEqual(true);
 });
@@ -15,7 +15,7 @@ test('C3', () => {
   expect(isValid(input)).toEqual(false);
 });
 
-test('C4', () => {
+test('C1 - C4 - C6', () => {
   const input = 'a123';
   expect(isValid(input)).toEqual(true);
 });
@@ -25,7 +25,7 @@ test('C5', () => {
   expect(isValid(input)).toEqual(false);
 });
 
-test('C6', () => {
+test('C1 - C4 - C6', () => {
   const input = 'z9w8x7';
   expect(isValid(input)).toEqual(true);
 });
