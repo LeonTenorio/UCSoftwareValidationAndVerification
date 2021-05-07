@@ -10,10 +10,10 @@ In the [`ir.test.ts`](src/ir.test.ts) file I created four tests to cover that co
 
 The `package.json` file has the `test` script, so we can run all `.test.ts` files using `npm test`.
 
-The `index.html` file output:
+The `index.html` output file:
 
 ![index.html](coverage_index.png)
 
-The `ir.ts.html` file output:
+The `ir.ts.html` output file:
 
 ![ir.ts.html](coverage_ir.png)
