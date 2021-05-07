@@ -10,6 +10,10 @@ In the [`ir.test.ts`](src/ir.test.ts) file I created four tests to cover that co
 
 The `package.json` file has the `test` script, so we can run all `.test.ts` files using `npm test`.
 
-<iframe src="https://github.com/LeonTenorio/UCSoftwareValidationAndVerification/blob/master/IR/coverage_index.pdf" style="width:718px; height:1500px;" frameborder="0"></iframe>
+The `index.html` file output:
 
-<iframe src="https://github.com/LeonTenorio/UCSoftwareValidationAndVerification/blob/master/IR/coverage_ir.pdf" style="width:718px; height:1500px;" frameborder="0"></iframe>
+![index.html](coverage_index.png)
+
+The `ir.ts.html` file output:
+
+![ir.ts.html](coverage_ir.png)
