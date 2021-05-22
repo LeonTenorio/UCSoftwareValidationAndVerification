@@ -1,4 +1,4 @@
-## Second exercise - Silly Pascal
+## Fourth exercise - Mutation test: Silly Pascal
 
 In this exercise, I used a Silly Pascal verifier implemented in exercise of the course [silly-pascal](../silly-pascal/README.md). This function checks if the input string is a valid silly pascal.
 

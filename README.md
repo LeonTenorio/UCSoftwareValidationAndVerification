@@ -9,3 +9,4 @@ List of course activities:
 - [Triangle sorter](triangle-sorter)
 - [Silly Pascall](silly-pascal)
 - [IR Coverage Tests](IR)
+- [Mutation Test in Silly Pascal](silly-pascal-mutation)
