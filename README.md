@@ -11,3 +11,4 @@ List of course activities:
 - [IR Coverage Tests](IR)
 - [Mutation Test in Silly Pascal](silly-pascal-mutation)
 - [Property-Based Test in Silly Pascal](silly-pascall-fast-check)
+- [ATM withdrawal algorithm](atm)
