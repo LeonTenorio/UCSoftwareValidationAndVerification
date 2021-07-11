@@ -1,0 +1,31 @@
+{
+  "name": "typescript-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "testMatch": [
+      "<rootDir>/**/*.test.ts",
+      "<rootDir>/**/*.spec.ts"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "@types/node": "^14.0.27",
+    "jest": "^26.4.0",
+    "prettier": "^2.2.1",
+    "ts-jest": "^26.5.4",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.171",
+    "lodash": "^4.17.21"
+  }
+}
