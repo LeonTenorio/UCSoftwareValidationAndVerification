@@ -12,3 +12,4 @@ List of course activities:
 - [Mutation Test in Silly Pascal](silly-pascal-mutation)
 - [Property-Based Test in Silly Pascal](silly-pascall-fast-check)
 - [ATM withdrawal algorithm](atm)
+- [TDD Stock Exercise](ttd_stock)
