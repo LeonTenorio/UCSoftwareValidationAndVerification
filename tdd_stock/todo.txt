@@ -4,5 +4,5 @@ First tests:
 
 Problems/Corrections:
  - Make 'amount' private
- - Dollar side-effects?
+ - Dollar side-effects? ✅
  - Money rounding?
