@@ -6,3 +6,5 @@ Problems/Corrections:
  - Make 'amount' private
  - Dollar side-effects? ✅
  - Money rounding?
+ - Francs are obsolete! (Use euro)
+ - equals

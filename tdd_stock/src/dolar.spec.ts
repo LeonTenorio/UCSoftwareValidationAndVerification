@@ -9,4 +9,9 @@ describe('Dollar', () => {
     product = five.times(3);
     expect(product.amount).toEqual(15);
   });
+
+  it('should return true when dollares of the same value are compared', () => {
+    expect(new Dollar(5).equals(new Dollar(5))).toBe(true);
+    expect(new Dollar(5).equals(new Dollar(6))).toBe(false);
+  });
 });
