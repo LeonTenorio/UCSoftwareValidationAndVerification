@@ -3,7 +3,7 @@ First tests:
  - $5 * 2 = $10 
 
 Problems/Corrections:
- - Make 'amount' private
+ - Make 'amount' private ✅
  - Dollar side-effects? ✅
  - Money rounding?
  - Francs are obsolete! (Use euro)
