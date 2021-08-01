@@ -1,10 +1,11 @@
 First tests:
- - $5 + 10 CHF = $10 if rate 2:1 ✅
- - $5 * 2 = $10 
+ - $5 + 10 EUR = $10 if rate 2:1 
+ - $5 * 2 = $10 ✅
+ - 5 EUR * 2 = 10 EUR ✅
 
 Problems/Corrections:
  - Make 'amount' private ✅
  - Dollar side-effects? ✅
  - Money rounding?
- - Francs are obsolete! (Use euro)
- - equals
+ - Francs are obsolete! (Use euro) ✅
+ - equals null
