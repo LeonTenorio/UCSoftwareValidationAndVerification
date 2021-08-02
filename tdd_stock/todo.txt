@@ -10,4 +10,4 @@ Problems/Corrections:
  - Francs are obsolete! (Use euro) ✅
  - equals null
  - Common times
- - Compare Euros with Dollars
+ - Compare Euros with Dollars ✅
