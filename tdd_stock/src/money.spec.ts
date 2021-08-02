@@ -21,5 +21,6 @@ describe('Money', () => {
     expect(new Dollar(5).equals(new Dollar(6))).toBe(false);
     expect(new Euro(5).equals(new Euro(5))).toBe(true);
     expect(new Euro(5).equals(new Euro(6))).toBe(false);
+    expect(new Euro(5).equals(new Dollar(5))).toBe(false);
   });
 });
