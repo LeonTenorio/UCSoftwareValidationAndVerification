@@ -11,3 +11,4 @@ Problems/Corrections:
  - equals null
  - Common times
  - Compare Euros with Dollars ✅
+ - Currency?
