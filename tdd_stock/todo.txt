@@ -5,10 +5,11 @@ First tests:
 
 Problems/Corrections:
  - Make 'amount' private ✅
+ - Make 'currency' private ✅
  - Dollar side-effects? ✅
  - Money rounding?
  - Francs are obsolete! (Use euro) ✅
  - equals null
  - Common times
  - Compare Euros with Dollars ✅
- - Currency?
+ - Currency? ✅
