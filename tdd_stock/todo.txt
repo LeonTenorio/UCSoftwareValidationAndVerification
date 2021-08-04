@@ -10,6 +10,6 @@ Problems/Corrections:
  - Money rounding?
  - Francs are obsolete! (Use euro) ✅
  - equals null
- - Common times
+ - Common times ✅
  - Compare Euros with Dollars ✅
  - Currency? ✅
