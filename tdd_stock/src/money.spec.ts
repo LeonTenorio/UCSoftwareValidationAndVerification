@@ -22,4 +22,9 @@ describe('Money', () => {
     expect(Money.euro(5).equals(Money.euro(6))).toBe(false);
     expect(Money.euro(5).equals(Money.dollar(5))).toBe(false);
   });
+
+  it('should correctly handle currencies', () => {
+    expect(Money.dollar(1).currency()).toEqual('USD');
+    expect(Money.euro(1).currency()).toEqual('EUR');
+  });
 });
