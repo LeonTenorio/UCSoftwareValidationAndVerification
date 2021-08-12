@@ -14,3 +14,7 @@ Problems/Corrections:
  - Common times ✅
  - Compare Euros with Dollars ✅
  - Currency? ✅
+ - Return Money from $5 + $5 ✅
+ - Bank.reduce(Money) ✅
+ - Reduce money with converstion
+ - Reduce(Bank, string)
