@@ -16,5 +16,5 @@ Problems/Corrections:
  - Currency? ✅
  - Return Money from $5 + $5 ✅
  - Bank.reduce(Money) ✅
- - Reduce money with converstion
- - Reduce(Bank, string)
+ - Reduce money with converstion ✅
+ - Reduce(Bank, string) ✅
