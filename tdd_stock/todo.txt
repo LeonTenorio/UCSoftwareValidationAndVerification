@@ -1,5 +1,5 @@
 First tests:
- - $5 + 10 EUR = $10 if rate 2:1 
+ - $5 + 10 EUR = $10 if rate 2:1 ✅
  - $5 + $5 = $10 ✅
  - $5 * 2 = $10 ✅
  - 5 EUR * 2 = 10 EUR ✅
@@ -18,5 +18,5 @@ Problems/Corrections:
  - Bank.reduce(Money) ✅
  - Reduce money with converstion ✅
  - Reduce(Bank, string) ✅
- - Sum.plus
- - Expression.times
+ - Sum.plus ✅
+ - Expression.times ✅
