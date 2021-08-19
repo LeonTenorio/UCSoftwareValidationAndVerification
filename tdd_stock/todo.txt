@@ -18,3 +18,5 @@ Problems/Corrections:
  - Bank.reduce(Money) ✅
  - Reduce money with converstion ✅
  - Reduce(Bank, string) ✅
+ - Sum.plus
+ - Expression.times
